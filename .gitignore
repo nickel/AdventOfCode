@@ -1,0 +1,5 @@
+.ivy2/
+.sbt/
+target/
+project/project/
+project/target/
